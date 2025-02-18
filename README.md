@@ -138,28 +138,3 @@ LIMIT 10;
 
 ---
 
-## **📊 Python Visualization**
-For deeper insights, we use **Python (Pandas, Matplotlib, Seaborn)** to visualize:
-- **Readmission rates by diagnosis**
-- **Co-occurrence of chronic diseases**
-- **Top medications prescribed per condition**
-
----
-
-## **🎯 Why This Project is Relevant to Truveta**
-✅ **Healthcare Focused** – Uses **real-world patient data** to extract meaningful **clinical insights**.  
-✅ **Customer-Facing Insights** – Demonstrates ability to **collaborate with teams** and **deliver actionable research**.  
-✅ **Big Data & SQL Analytics** – Works with **millions of records**, mirroring **Truveta’s large-scale EHR platform**.  
-
----
-
-## **🚀 Next Steps**
-🔹 **Upload this to GitHub and share your repository link.**  
-🔹 **Include screenshots of SQL queries and results.**  
-🔹 **Expand with predictive models (e.g., patient risk scores).**  
-
----
-
-### **🔗 Download the Full Report:** (Add PDF link after uploading)
-
-Would you like help structuring your **GitHub repository files** or **adding more queries?** 🚀

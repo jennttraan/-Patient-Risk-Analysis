@@ -13,19 +13,6 @@ This aligns with **Truveta’s mission** of using **real-world patient data** to
 
 ---
 
-## **📂 Repository Structure**
-```
-📂 SQL-Patient-Risk-Analysis
- ├── 📜 README.md         (Project documentation)
- ├── 📜 queries.sql       (All SQL queries)
- ├── 📜 analysis.ipynb    (Python notebook for visualization)
- ├── 📂 data/             (Sample dataset or MIMIC-IV connection instructions)
- ├── 📂 results/          (Charts, query outputs)
- ├── 📜 report.pdf        (Final research report)
-```
-
----
-
 ## **📄 Dataset: MIMIC-IV (Real-World EHR Data)**
 🔗 **Dataset Link:** [MIMIC-IV v2.2](https://physionet.org/content/mimiciv/2.2/)  
 
